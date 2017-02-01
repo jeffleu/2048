@@ -1,5 +1,5 @@
 # 2048 in React
-#![](https://raw.githubusercontent.com/jeffleu/2048/master/src/client/images/demo.gif)
+#![](https://raw.githubusercontent.com/jeffleu/2048/master/images/demo.gif)
 
 ## Requirements
 * [Node.js](https://nodejs.org/) v6.x.x
